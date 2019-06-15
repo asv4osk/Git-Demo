@@ -7,9 +7,9 @@ Fisch
 Gnu
 Hund
 Igel
-j
-k
-l
+Jaguar
+Kamel
+Löwe
 m
 n
 o
