@@ -4,9 +4,9 @@ Chamäleon
 Dackel
 Elephant
 Fisch
-g	!!!
-h
-i
+Gnu
+Hund
+Igel
 j
 k
 l
